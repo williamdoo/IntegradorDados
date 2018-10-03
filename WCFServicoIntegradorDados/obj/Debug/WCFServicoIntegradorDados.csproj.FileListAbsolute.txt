@@ -1,0 +1,10 @@
+F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\obj\Debug\WCFServicoIntegradorDados.csprojAssemblyReference.cache
+F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\obj\Debug\WCFServicoIntegradorDados.csproj.CoreCompileInputs.cache
+F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\ServicoTransmissaoDados.dll
+F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\ServicoTransmissaoDados.pdb
+F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\obj\Debug\WCFServicoIntegradorDados.csproj.CopyComplete
+F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\WCFServicoIntegradorDados.exe.config
+F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\WCFServicoIntegradorDados.exe
+F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\WCFServicoIntegradorDados.pdb
+F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\obj\Debug\WCFServicoIntegradorDados.exe
+F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\obj\Debug\WCFServicoIntegradorDados.pdb

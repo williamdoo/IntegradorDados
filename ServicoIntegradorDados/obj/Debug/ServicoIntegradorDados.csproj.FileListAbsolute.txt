@@ -1,0 +1,5 @@
+F:\Projeto\IntegradorDados\ServicoIntegradorDados\bin\Debug\ServicoTransmissaoDados.dll
+F:\Projeto\IntegradorDados\ServicoIntegradorDados\bin\Debug\ServicoTransmissaoDados.pdb
+F:\Projeto\IntegradorDados\ServicoIntegradorDados\obj\Debug\ServicoIntegradorDados.csproj.CoreCompileInputs.cache
+F:\Projeto\IntegradorDados\ServicoIntegradorDados\obj\Debug\ServicoTransmissaoDados.dll
+F:\Projeto\IntegradorDados\ServicoIntegradorDados\obj\Debug\ServicoTransmissaoDados.pdb

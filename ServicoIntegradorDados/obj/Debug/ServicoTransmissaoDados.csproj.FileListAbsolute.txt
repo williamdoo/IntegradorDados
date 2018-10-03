@@ -1,0 +1,5 @@
+F:\Projeto\TransmissorDados\ServicoTransmissaoDados\bin\Debug\ServicoTransmissaoDados.dll
+F:\Projeto\TransmissorDados\ServicoTransmissaoDados\bin\Debug\ServicoTransmissaoDados.pdb
+F:\Projeto\TransmissorDados\ServicoTransmissaoDados\obj\Debug\ServicoTransmissaoDados.csproj.CoreCompileInputs.cache
+F:\Projeto\TransmissorDados\ServicoTransmissaoDados\obj\Debug\ServicoTransmissaoDados.dll
+F:\Projeto\TransmissorDados\ServicoTransmissaoDados\obj\Debug\ServicoTransmissaoDados.pdb

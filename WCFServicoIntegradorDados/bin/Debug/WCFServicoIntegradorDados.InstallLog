@@ -1,0 +1,13 @@
+﻿Instalando o assembly 'F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\WCFServicoIntegradorDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\WCFServicoIntegradorDados.InstallLog
+   assemblypath = F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\WCFServicoIntegradorDados.exe
+Instalando o serviço Integrador de Dados...
+Serviço Integrador de Dados foi instalado com êxito.
+Criando a origem de EventLog Integrador de Dados no log Application...
+Confirmando o assembly 'F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\WCFServicoIntegradorDados.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\WCFServicoIntegradorDados.InstallLog
+   assemblypath = F:\Projeto\IntegradorDados\WCFServicoIntegradorDados\bin\Debug\WCFServicoIntegradorDados.exe

@@ -1,0 +1,10 @@
+F:\Projeto\TransmissorDados\WCFServicoTransmissaoDados\bin\Debug\WCFServicoTransmissaoDados.exe.config
+F:\Projeto\TransmissorDados\WCFServicoTransmissaoDados\bin\Debug\WCFServicoTransmissaoDados.exe
+F:\Projeto\TransmissorDados\WCFServicoTransmissaoDados\bin\Debug\WCFServicoTransmissaoDados.pdb
+F:\Projeto\TransmissorDados\WCFServicoTransmissaoDados\bin\Debug\ServicoTransmissaoDados.dll
+F:\Projeto\TransmissorDados\WCFServicoTransmissaoDados\bin\Debug\ServicoTransmissaoDados.pdb
+F:\Projeto\TransmissorDados\WCFServicoTransmissaoDados\obj\Debug\WCFServicoTransmissaoDados.csprojAssemblyReference.cache
+F:\Projeto\TransmissorDados\WCFServicoTransmissaoDados\obj\Debug\WCFServicoTransmissaoDados.csproj.CoreCompileInputs.cache
+F:\Projeto\TransmissorDados\WCFServicoTransmissaoDados\obj\Debug\WCFServicoTransmissaoDados.csproj.CopyComplete
+F:\Projeto\TransmissorDados\WCFServicoTransmissaoDados\obj\Debug\WCFServicoTransmissaoDados.exe
+F:\Projeto\TransmissorDados\WCFServicoTransmissaoDados\obj\Debug\WCFServicoTransmissaoDados.pdb

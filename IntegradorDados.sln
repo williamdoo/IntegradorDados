@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicoIntegradorDados", "ServicoIntegradorDados\ServicoIntegradorDados.csproj", "{86EFE9D0-39F9-4B4E-8B3E-347378A8D5B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServicoIntegradorDados", "WCFServicoIntegradorDados\WCFServicoIntegradorDados.csproj", "{5647A817-DFCB-4C8A-88D0-77847584B02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86EFE9D0-39F9-4B4E-8B3E-347378A8D5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EFE9D0-39F9-4B4E-8B3E-347378A8D5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EFE9D0-39F9-4B4E-8B3E-347378A8D5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EFE9D0-39F9-4B4E-8B3E-347378A8D5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5647A817-DFCB-4C8A-88D0-77847584B02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5647A817-DFCB-4C8A-88D0-77847584B02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5647A817-DFCB-4C8A-88D0-77847584B02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5647A817-DFCB-4C8A-88D0-77847584B02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A3258E-02E4-4E33-A6EC-6726E1931D3C}
+	EndGlobalSection
+EndGlobal
